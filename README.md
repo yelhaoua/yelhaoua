@@ -14,8 +14,6 @@
  
  🌱 I’m currently learning **PHP, React, Laravel**
 
-💬 Ask me about **HTML, CSS, JS... or anything [here](https://github.com/Yacobel/Yacobel/issues)**
-
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
