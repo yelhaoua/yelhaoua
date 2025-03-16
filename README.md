@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="yacobelhaouarii@gmail.com">
+  <a href="mailto:yacobelhaouarii@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/yaakoub-el-haouari-56439b33b/" target="_blank">
