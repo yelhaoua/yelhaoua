@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **PHP, React, Laravel**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Jesse Pinkman’s iconic catchphrase "Yeah, science!" was improvised by Aaron Paul**
 
  </div>
  
