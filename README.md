@@ -32,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mysql,php" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,bootstrap,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,mysql" /><br>
 </div>
 
 <br/>
