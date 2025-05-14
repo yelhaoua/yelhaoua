@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying at **Solicode Tangier**
  
- 🌱 I’m currently learning **PHP, React js, Express js**
+ 🌱 I’m currently learning **PHP, React js, Express Js**
 
 ⚡ Fun fact **Jesse Pinkman’s iconic catchphrase "Yeah, science!" was improvised by Aaron Paul**
 
