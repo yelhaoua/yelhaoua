@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,bootstrap,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,bootstrap,git,github,figma,shell,c" />
     <br>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,mysql" /><br>
 </div>
