@@ -8,8 +8,8 @@
 
 <div align="center">
  
- 🔭 Currently studying at <b>SoliCode Tangier</b>  
- 🌱 Currently learning <b>PHP, React.js, Express.js, and Backend Development</b>  
+ 🔭 Currently studying at <b>Zone 01 Oujda</b>  
+ 🌱 Currently learning <b>Go , Java , Rust</b>  
  🎯 Goal: <b>Become a professional software engineer</b>  
  💻 Passionate about building real-world web applications  
 
