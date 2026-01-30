@@ -30,9 +30,9 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,bootstrap,git,github,figma,bash,c,go" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,git,github,bash,c,go" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,php,mysql,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=javascript,php,mysql" />
 </div>
 
 <br/>
