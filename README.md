@@ -6,7 +6,7 @@
 
 <br/>
 
-<div align="center">
+<div align="start">
  
  🔭 Currently studying at <b>Zone 01 Oujda</b>  
  🌱 Currently learning <b>Go , Java , Rust</b>  
@@ -40,7 +40,7 @@
 
 <h2 align="center">📌 About Me</h2>
 
-<div align="center">
+<div align="start">
 I am a motivated web developer with a strong interest in full-stack development.  
 I enjoy solving problems, learning new technologies, and building scalable web applications.  
 Currently focused on improving my backend and system design skills.
