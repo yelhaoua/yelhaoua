@@ -26,7 +26,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 
 
 <div align="center">
@@ -39,7 +39,7 @@
 <hr/>
 
 <div align="center">
-    <br/>
+   
 <h2 align="center"> 
     📊 GitHub Analytics
 </h2>
