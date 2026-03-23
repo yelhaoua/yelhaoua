@@ -26,25 +26,28 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
-<br/>
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️
+
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,git,github,bash,go" />
     <br/>
     <img src="https://skillicons.dev/icons?i=javascript,php,mysql" />
-</div>
+
 
 <br/>
 <hr/>
 
 <div align="center">
-## 📊 GitHub Analytics
-
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yelhaoua\&theme=github_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yelhaoua\&theme=github_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haitbenal\&theme=github_dark)
-    
+<h2 align="center"> 
+    📊 GitHub Analytics
+</h2>
+<br/>
+<div align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yelhaoua\&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yelhaoua\&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haitbenal\&theme=github_dark)
+</div>  
 </div>
 
 
