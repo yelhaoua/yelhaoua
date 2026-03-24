@@ -38,7 +38,7 @@
 <br/>
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
    
 <h2 align="center"> 
     📊 GitHub Analytics
@@ -48,7 +48,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yelhaoua\&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yelhaoua\&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haitbenal\&theme=github_dark)  
-</div>
+</div> -->
 
 
 
