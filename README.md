@@ -32,11 +32,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,php,go,mysql,sqlite" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-    <br/>
     <img src="https://skillicons.dev/icons?i=git,github,bash,vscode" />
-
-
+    <br/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
 <br/>
 <hr/>
 
