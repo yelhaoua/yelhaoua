@@ -30,11 +30,11 @@
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,git,github,bash" />
+    <img src="https://skillicons.dev/icons?i=javascript,php,go,mysql,sqlite" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=javascript,php,go" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=git,github,bash,vscode" />
 
 
 <br/>
