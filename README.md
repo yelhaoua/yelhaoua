@@ -30,7 +30,7 @@
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,nextJs,php,go,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=javascript,nextjs,php,mysql,sqlite,go" />
     <br/>
     <img src="https://skillicons.dev/icons?i=git,github,bash,vscode" />
     <br/>
